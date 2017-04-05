@@ -403,7 +403,7 @@ T.dict = {
     "Wooden chest": "木儲物箱",
     "Iron pipe": "鐵管子",
 
-    "Imperial arc": "Имперская арка",
+    "Imperial arc": "皇室拱門",
     "Imperial door": "Имперская дверь",
     "Imperial floor": "Имперскый пол",
     "Imperial pillar": "Имперскый столб",
