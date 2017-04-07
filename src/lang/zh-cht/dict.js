@@ -875,7 +875,7 @@ T.dict = {
     "Titanium shovel": "鈦鏟",
     "Fir tree branch": "冷杉樹枝條",
     "Birch tree bough": "樺樹樹枝",
-    "Small swordsman statue": "小型劍士雕像,
+    "Small swordsman statue": "小型劍士雕像",
     "Raw meat pie": "生餡餅",
     "Cigar": "雪茄",
     "Wooden plow": "木製犁",
